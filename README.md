@@ -58,6 +58,24 @@ The `expenses.csv` and `budget.json` files are created automatically when the ap
 
 ---
 
+## 🧩 Sample Output Screenshots
+
+### Interface
+
+![image alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125717.png)
+
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125738.png)
+
+### Export CSV File
+
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125845.png)
+
+### Delete Any Expense
+
+![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125853.png)
+
+---
+
 ## 📚 Learning Outcomes
 
 - Understanding Python fundamentals
