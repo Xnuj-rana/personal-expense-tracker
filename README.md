@@ -64,13 +64,13 @@ The `expenses.csv` and `budget.json` files are created automatically when the ap
 
 ![image alt](https://github.com/Xnuj-rana/personal-expense-tracker/blob/6ca41745442a54d9788694bf118a88933a393ee5/Screenshot%202026-10-25%20200252.png)
 
-### Export CSV File
+### Expenses Summary
 
 ![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125845.png)
 
 ### Delete Any Expense
 
-![img alt](https://github.com/Xnuj-rana/Gameverse-web-page/blob/19d2af3262b32aa0011be9f497b352963a280827/Screenshot%202026-04-05%20125853.png)
+![img alt](https://github.com/Xnuj-rana/personal-expense-tracker/blob/328470539fdee94433121fe8fffbb49f3adf1525/Screenshot%202026-10-25%20200343.png)
 
 ---
 
